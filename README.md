@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ibad+U+Rehman+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Science+%F0%9F%A4%96;Game+Modding+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ibad+U+Rehman+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+%F0%9F%A4%96;Game+Modding+Enthusiast+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:Ibad.Rehman001@gmail.com">
